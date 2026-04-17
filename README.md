@@ -1,2 +1,3 @@
 # Desafio7DiasAlura
-Desafio 7 Dias no qual a escola online alura liberou gratis um curso de HTML e CSS de um projeto de uma pagina chamada aluraPlus no qual criei neste desafio e irei disponibilizar no vercel. 
+💻 Desafio 7 Dias no qual a escola online alura liberou gratis um curso de HTML e CSS de um projeto de uma pagina chamada aluraPlus no qual criei neste desafio e está disponivel no vercel.
+💻 foi utilizado tecnologias como: HTML5 e CSS3.
